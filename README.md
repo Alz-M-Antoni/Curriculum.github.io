@@ -4,18 +4,15 @@ Estructura de Datos. Currículum.
 <!--esto es un comentario :D-->
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="" width="device-width" initial-scale="1.0">
     <link rel="stylesheet" href="style/style.css">
-    <title>Curriculum</title>
+    <title>"Curriculum"</title>
     <script type="text/javascript">
-        function popUp(URL) {
-            window.open(URL, 'Nombre de la ventana', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=1,width=600,height=400,left = 390,top = 50');
-        }
+        function popUp(URL){
+            window.open(URL,'Nombre de la ventana','toolbar=0','scrollbars=0','location=0','statusbar=0','menubar=0','resizable=1','width=600','height=400','left = 390','top = 50')}
     </script>
-</head>
-<!--esto es un comentario Es de seccion :D-->
-<body> <!--esto es EL CUERPO :D-->
-    <!--Esto es un comentario seccion al igual que el anterior-->
+</head><!--esto es un comentario Es de seccion :D-->
+<body> <!--esto es EL CUERPO :D--><!--Esto es un comentario seccion al igual que el anterior-->
     <section id="presentacion">
         <H2>Marco Antonio López Martínez</H2>
         <div class="perfil">
