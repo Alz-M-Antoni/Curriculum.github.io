@@ -3,7 +3,6 @@ Estructura de Datos. Currículum.
 
 <html lang="es"> <!--esto SIRVE PARA EL IDIOMA Ñ :D-->
 <!--esto es un comentario :D-->
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -24,7 +23,6 @@ Estructura de Datos. Currículum.
         <div class="perfil">
             <img class="perfil" src="Resources/Redes/M-Antonio.jpeg" alt="Fotografía de Toño" />
         </div>
-
         <fieldset> <!--esto es OTRA FILA :D-->
             <legend><strong>Datos Personales</strong></legend>
             <p><strong>Correo:</strong>
@@ -54,7 +52,6 @@ Estructura de Datos. Currículum.
             </section>
         </fieldset> <!--esto es PARA LA SECCION :D-->
     </section>
-
     <!--Esto es un comentario seccion ;DDD -->
     <section id="contenido">
         <!-- EL ID CONTENIDO ES TODO LO DEL IZQUIERDO -->
@@ -65,7 +62,6 @@ Estructura de Datos. Currículum.
             <p>Periodo: 2021-2024</p>
             <p>Matricula: 22011918</p>
         </fieldset>
-
         <fieldset>
             <legend><strong>Idiomas</strong></legend>
             <div id="idioma">
@@ -79,7 +75,6 @@ Estructura de Datos. Currículum.
                 </div>
             </div>
         </fieldset>
-
         <fieldset>
             <legend><strong>Herramientas</strong></legend>
             <table>
@@ -88,7 +83,6 @@ Estructura de Datos. Currículum.
                     <th scope="col"><strong>Entornos SQL</strong></th>
                     <th scope="col"><strong>Entornos NoSQL</strong></th>
                 </tr>
-
                 <tr>
                     <td>
                         <li>Python</li>
@@ -99,24 +93,19 @@ Estructura de Datos. Currículum.
                         <li>HTML5</li>
                         <li>css</li>
                     </td>
-
                     <td>
                         <li>SQL Server</li>
                         <li>Oracle</li>
                         <li>HeidiSQL</li>
                         <li>PostgreSQL</li>
                     </td>
-
                     <td>
                         <li>Firestore</li>
                         <li>Cosmos DB</li>
                     </td>
-
                 </tr>
-
             </table>
         </fieldset>
-
         <fieldset>
             <legend><strong>Herramientas Dominadas.</strong></legend>
             <table>
@@ -188,5 +177,4 @@ Estructura de Datos. Currículum.
         </fieldset>
     </section>
 </body>
-
 </html>
