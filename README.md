@@ -1,6 +1,5 @@
 # Curriculum.github.io
 Estructura de Datos. Currículum.
-
 <html lang="es"> <!--esto SIRVE PARA EL IDIOMA Ñ :D-->
 <!--esto es un comentario :D-->
 <head>
@@ -15,7 +14,6 @@ Estructura de Datos. Currículum.
     </script>
 </head>
 <!--esto es un comentario Es de seccion :D-->
-
 <body> <!--esto es EL CUERPO :D-->
     <!--Esto es un comentario seccion al igual que el anterior-->
     <section id="presentacion">
